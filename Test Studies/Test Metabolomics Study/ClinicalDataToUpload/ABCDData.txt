@@ -1,0 +1,11 @@
+STUDY_ID	SUBJ_ID	Sample Type
+TESTMET	1	Control
+TESTMET	2	Control
+TESTMET	3	Control
+TESTMET	4	Control
+TESTMET	5	Treated
+TESTMET	6	Treated
+TESTMET	7	Treated
+TESTMET	8	Treated
+TESTMET	9	Treated
+TESTMET	10	Treated
